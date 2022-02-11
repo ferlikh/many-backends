@@ -1,0 +1,23 @@
+#bulletin {
+    min-width: 50%;
+    padding: 5rem;
+}
+
+form {
+    min-width: 50%;
+}
+#post_content_control {
+    min-width: 85%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.col {
+    flex: 1;
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
